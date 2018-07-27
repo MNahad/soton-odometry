@@ -9,6 +9,8 @@ _This code was submitted as an attempt to fulfil part of a course at the Univers
 ## The task
 The task is to design, build and run a robot that can successfully navigate a course marked by a centreline track. At five points on the track, the robot has to drop a payload on top of the centreline. The only inputs to the robot are individual wheel rotation angles via Hall sensors. The deadline to complete the run is two weeks from the commencement of the project. The team members for the project are randomised.
 
-The course can be seen in the image:
+The course can be seen in the image below:
 
 ![Course](https://github.com/MNahad/soton-odometry/blob/master/Untitled.png "The course")
+
+This design ended up qualifying in the local heat and running in the final.
